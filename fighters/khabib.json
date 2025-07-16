@@ -1,1 +1,11 @@
-
+{
+  "name": "Khabib The Eagle Nurmagomedov",
+  "style": "grappler",
+  "stats": {
+    "striking": 75,
+    "grappling": 95,
+    "takedown_defense": 95,
+    "cardio": 92,
+    "fight_iq": 90
+  }
+}
