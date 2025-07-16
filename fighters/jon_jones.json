@@ -1,1 +1,11 @@
-
+{
+  "name": "Jone Bones Jones",
+  "style": "mixed",
+  "stats": {
+    "striking": 90,
+    "grappling": 85,
+    "takedown_defense": 92,
+    "cardio": 88,
+    "fight_iq": 95
+  }
+}
